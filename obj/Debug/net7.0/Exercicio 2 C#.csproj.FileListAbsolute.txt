@@ -1,0 +1,15 @@
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\bin\Debug\net7.0\Exercicio 2 C#.exe
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\bin\Debug\net7.0\Exercicio 2 C#.deps.json
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\bin\Debug\net7.0\Exercicio 2 C#.runtimeconfig.json
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\bin\Debug\net7.0\Exercicio 2 C#.dll
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\bin\Debug\net7.0\Exercicio 2 C#.pdb
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.csproj.AssemblyReference.cache
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.AssemblyInfoInputs.cache
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.AssemblyInfo.cs
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.dll
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\refint\Exercicio 2 C#.dll
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.pdb
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\Exercicio 2 C#.genruntimeconfig.cache
+C:\Users\LealC\OneDrive\Área de Trabalho\Exercicio 2 C#\obj\Debug\net7.0\ref\Exercicio 2 C#.dll
